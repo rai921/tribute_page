@@ -1,0 +1,69 @@
+main {
+  width: 92%;
+  background-color: lightgrey;
+border-radius: 20px;
+margin: auto;
+font-family: "Arial", sans-serif;
+}
+
+#title, #des, h2, #last {
+  text-align: center;
+ 
+}
+
+h2 {
+  font-size: 23px;
+}
+
+ul li {
+  font-size: 18px;
+  word-spacing: 2px;
+  margin: 20px;
+}
+
+#quote {
+  font-size: 18px;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+#title {
+  font-size: 45;
+  font-weight: 900;
+   padding: 30px 10px 0 0;
+}
+
+#last {
+  font-size: 22px;
+  font-weight: 700;
+  padding: 5px 0 20px 0;
+}
+
+#des {
+  padding-bottom: 10px;
+}
+
+#tribute-info, #quote {
+  max-width: 70%;
+  margin: auto;
+}
+
+#img-div {
+  width: 92%;
+  margin: auto;
+  background-color: white;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+#img-caption {
+  text-align: center;
+  padding-bottom: 2px;
+}
